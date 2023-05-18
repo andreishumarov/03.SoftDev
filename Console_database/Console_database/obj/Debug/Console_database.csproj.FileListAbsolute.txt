@@ -1,0 +1,9 @@
+F:\11A-andrei\03 SoftDev\2riSrok\Console_database\Console_database\bin\Debug\Database1.mdf
+F:\11A-andrei\03 SoftDev\2riSrok\Console_database\Console_database\bin\Debug\Database1_log.ldf
+F:\11A-andrei\03 SoftDev\2riSrok\Console_database\Console_database\bin\Debug\Console_database.exe.config
+F:\11A-andrei\03 SoftDev\2riSrok\Console_database\Console_database\bin\Debug\Console_database.exe
+F:\11A-andrei\03 SoftDev\2riSrok\Console_database\Console_database\bin\Debug\Console_database.pdb
+F:\11A-andrei\03 SoftDev\2riSrok\Console_database\Console_database\obj\Debug\Console_database.csprojAssemblyReference.cache
+F:\11A-andrei\03 SoftDev\2riSrok\Console_database\Console_database\obj\Debug\Console_database.csproj.CoreCompileInputs.cache
+F:\11A-andrei\03 SoftDev\2riSrok\Console_database\Console_database\obj\Debug\Console_database.exe
+F:\11A-andrei\03 SoftDev\2riSrok\Console_database\Console_database\obj\Debug\Console_database.pdb
